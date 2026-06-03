@@ -15,4 +15,4 @@ Data scientist and ML engineer — generative AI, deep learning, and applied sta
 `Python` · `PyTorch` · `Hugging Face` · `scikit-learn` · `pandas` · `NumPy` · `SciPy` · `statsmodels` · `FastAPI` · `SQL` · `PostgreSQL` · `Flutter` · `ParaView` / `VTK`
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/cole-campbell23)
+**[Portfolio — cjcamp16.github.io](https://cjcamp16.github.io)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/cole-campbell23)
