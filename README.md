@@ -1,6 +1,6 @@
 ## Cole Campbell
 
-Data scientist and ML engineer in Tempe, AZ. I graduated cum laude with my B.S. in Data Science from Arizona State University in May 2026, and I start my M.S. in Data Science at ASU's School of Mathematical & Statistical Sciences in August 2026. I build generative AI systems and machine learning pipelines, then deploy them for the world to see and experience.
+Data scientist and ML engineer in Tempe, AZ. I graduated cum laude with my B.S. in Data Science from Arizona State University in June 2026, and I start my M.S. in Data Science at ASU's School of Mathematical & Statistical Sciences in August 2026. I build generative AI systems and machine learning pipelines, then deploy them for the world to see and experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cjcamp16/sciviz-paraview/main/outputs/04_streamlines.png" width="540" alt="ABC-flow streamlines rendered in ParaView">
